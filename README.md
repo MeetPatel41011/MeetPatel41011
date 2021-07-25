@@ -4,3 +4,6 @@
 - 💞️ Looking to collaborate with great learner and new internships ...
 - 📫 Catch me on LinkedIn: &nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/meet-patel41011/)
 - ✨ ALWAYS IN POSITIVITY ...
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="meet-patel41011" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/meet-patel41011?trk=profile-badge">Meet Patel</a></div>
+              
+              
